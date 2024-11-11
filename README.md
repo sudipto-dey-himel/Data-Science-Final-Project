@@ -27,5 +27,16 @@ The dataset used for this project is the Iris dataset, which contains 150 sample
 - Petal Width
 - Species (Target label)
 
-## Project Structure
+## Technologies Used
+
+- **Python**: for data processing and model building.
+- **Pandas**: for data manipulation.
+- **Scikit-learn**: for machine learning algorithms and evaluation.
+- **Matplotlib & Seaborn**: for data visualization.
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/iris-classification.git
 
