@@ -9,10 +9,6 @@ This project involves building and evaluating machine learning models to classif
 - [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [License](#license)
-
 ## Project Overview
 
 The Iris dataset is a classic dataset in the field of machine learning, often used as an introductory dataset for classification algorithms. The goal of this project was to classify Iris flowers into one of three species: *Iris setosa*, *Iris versicolor*, and *Iris virginica*, based on features such as petal and sepal lengths and widths.
