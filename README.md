@@ -6,7 +6,6 @@ This project involves building and evaluating machine learning models to classif
 
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 ## Project Overview
@@ -22,6 +21,7 @@ The dataset used for this project is the Iris dataset, which contains 150 sample
 - Petal Length
 - Petal Width
 - Species (Target label)
+- [Download Dataset](https://archive.ics.uci.edu/dataset/53/iris) 
 
 ## Technologies Used
 
@@ -31,8 +31,14 @@ The dataset used for this project is the Iris dataset, which contains 150 sample
 - **Matplotlib & Seaborn**: for data visualization.
 
 ## Installation
+*[Download Notebook](https://colab.research.google.com/drive/1VJpkC4EbRwnSEw6WKKSz4QtmMYB5fR_6)*
 
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/iris-classification.git
+2. Upload the notebook to your Google Drive and open it in Google Colab to run the code and explore the project in details.
 
+## Author
+**Sudipto Dey Himel** <br>
+**PSD ID:** PDS-06(MU)-13 <br>
+**Metropolitan University**
